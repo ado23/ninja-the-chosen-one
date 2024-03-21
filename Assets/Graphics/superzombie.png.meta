@@ -1,0 +1,4620 @@
+fileFormatVersion: 2
+guid: 7c30985e30148134ba5d38c6fe60e1f2
+timeCreated: 1506606268
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: superzombie_0
+    21300002: superzombie_1
+    21300004: superzombie_2
+    21300006: superzombie_3
+    21300008: superzombie_4
+    21300010: superzombie_5
+    21300012: superzombie_6
+    21300014: superzombie_7
+    21300016: superzombie_8
+    21300018: superzombie_9
+    21300020: superzombie_10
+    21300022: superzombie_11
+    21300024: superzombie_12
+    21300026: superzombie_13
+    21300028: superzombie_14
+    21300030: superzombie_15
+    21300032: superzombie_16
+    21300034: superzombie_17
+    21300036: superzombie_18
+    21300038: superzombie_19
+    21300040: superzombie_20
+    21300042: superzombie_21
+    21300044: superzombie_22
+    21300046: superzombie_23
+    21300048: superzombie_24
+    21300050: superzombie_25
+    21300052: superzombie_26
+    21300054: superzombie_27
+    21300056: superzombie_28
+    21300058: superzombie_29
+    21300060: superzombie_30
+    21300062: superzombie_31
+    21300064: superzombie_32
+    21300066: superzombie_33
+    21300068: superzombie_34
+    21300070: superzombie_35
+    21300072: superzombie_36
+    21300074: superzombie_37
+    21300076: superzombie_38
+    21300078: superzombie_39
+    21300080: superzombie_40
+    21300082: superzombie_41
+    21300084: superzombie_42
+    21300086: superzombie_43
+    21300088: superzombie_44
+    21300090: superzombie_45
+    21300092: superzombie_46
+    21300094: superzombie_47
+    21300096: superzombie_48
+    21300098: superzombie_49
+    21300100: superzombie_50
+    21300102: superzombie_51
+    21300104: superzombie_52
+    21300106: superzombie_53
+    21300108: superzombie_54
+    21300110: superzombie_55
+    21300112: superzombie_56
+    21300114: superzombie_57
+    21300116: superzombie_58
+    21300118: superzombie_59
+    21300120: superzombie_60
+    21300122: superzombie_61
+    21300124: superzombie_62
+    21300126: superzombie_63
+    21300128: superzombie_64
+    21300130: superzombie_65
+    21300132: superzombie_66
+    21300134: superzombie_67
+    21300136: superzombie_68
+    21300138: superzombie_69
+    21300140: superzombie_70
+    21300142: superzombie_71
+    21300144: superzombie_72
+    21300146: superzombie_73
+    21300148: superzombie_74
+    21300150: superzombie_75
+    21300152: superzombie_76
+    21300154: superzombie_77
+    21300156: superzombie_78
+    21300158: superzombie_79
+    21300160: superzombie_80
+    21300162: superzombie_81
+    21300164: superzombie_82
+    21300166: superzombie_83
+    21300168: superzombie_84
+    21300170: superzombie_85
+    21300172: superzombie_86
+    21300174: superzombie_87
+    21300176: superzombie_88
+    21300178: superzombie_89
+    21300180: superzombie_90
+    21300182: superzombie_91
+    21300184: superzombie_92
+    21300186: superzombie_93
+    21300188: superzombie_94
+    21300190: superzombie_95
+    21300192: superzombie_96
+    21300194: superzombie_97
+    21300196: superzombie_98
+    21300198: superzombie_99
+    21300200: superzombie_100
+    21300202: superzombie_101
+    21300204: superzombie_102
+    21300206: superzombie_103
+    21300208: superzombie_104
+    21300210: superzombie_105
+    21300212: superzombie_106
+    21300214: superzombie_107
+    21300216: superzombie_108
+    21300218: superzombie_109
+    21300220: superzombie_110
+    21300222: superzombie_111
+    21300224: superzombie_112
+    21300226: superzombie_113
+    21300228: superzombie_114
+    21300230: superzombie_115
+    21300232: superzombie_116
+    21300234: superzombie_117
+    21300236: superzombie_118
+    21300238: superzombie_119
+    21300240: superzombie_120
+    21300242: superzombie_121
+    21300244: superzombie_122
+    21300246: superzombie_123
+    21300248: superzombie_124
+    21300250: superzombie_125
+    21300252: superzombie_126
+    21300254: superzombie_127
+    21300256: superzombie_128
+    21300258: superzombie_129
+    21300260: superzombie_130
+    21300262: superzombie_131
+    21300264: superzombie_132
+    21300266: superzombie_133
+    21300268: superzombie_134
+    21300270: superzombie_135
+    21300272: superzombie_136
+    21300274: superzombie_137
+    21300276: superzombie_138
+    21300278: superzombie_139
+    21300280: superzombie_140
+    21300282: superzombie_141
+    21300284: superzombie_142
+    21300286: superzombie_143
+    21300288: superzombie_144
+    21300290: superzombie_145
+    21300292: superzombie_146
+    21300294: superzombie_147
+    21300296: superzombie_148
+    21300298: superzombie_149
+    21300300: superzombie_150
+    21300302: superzombie_151
+    21300304: superzombie_152
+    21300306: superzombie_153
+    21300308: superzombie_154
+    21300310: superzombie_155
+    21300312: superzombie_156
+    21300314: superzombie_157
+    21300316: superzombie_158
+    21300318: superzombie_159
+    21300320: superzombie_160
+    21300322: superzombie_161
+    21300324: superzombie_162
+    21300326: superzombie_163
+    21300328: superzombie_164
+    21300330: superzombie_165
+    21300332: superzombie_166
+    21300334: superzombie_167
+    21300336: superzombie_168
+    21300338: superzombie_169
+    21300340: superzombie_170
+    21300342: superzombie_171
+    21300344: superzombie_172
+    21300346: superzombie_173
+    21300348: superzombie_174
+    21300350: superzombie_175
+    21300352: superzombie_176
+    21300354: superzombie_177
+    21300356: superzombie_178
+    21300358: superzombie_179
+    21300360: superzombie_180
+    21300362: superzombie_181
+    21300364: superzombie_182
+    21300366: superzombie_183
+    21300368: superzombie_184
+    21300370: superzombie_185
+    21300372: superzombie_186
+    21300374: superzombie_187
+    21300376: superzombie_188
+    21300378: superzombie_189
+    21300380: superzombie_190
+    21300382: superzombie_191
+    21300384: superzombie_192
+    21300386: superzombie_193
+    21300388: superzombie_194
+    21300390: superzombie_195
+    21300392: superzombie_196
+    21300394: superzombie_197
+    21300396: superzombie_198
+    21300398: superzombie_199
+    21300400: superzombie_200
+    21300402: superzombie_201
+    21300404: superzombie_202
+    21300406: superzombie_203
+    21300408: superzombie_204
+    21300410: superzombie_205
+    21300412: superzombie_206
+    21300414: superzombie_207
+    21300416: superzombie_208
+    21300418: superzombie_209
+    21300420: superzombie_210
+    21300422: superzombie_211
+    21300424: superzombie_212
+    21300426: superzombie_213
+    21300428: superzombie_214
+    21300430: superzombie_215
+    21300432: superzombie_216
+    21300434: superzombie_217
+    21300436: superzombie_218
+    21300438: superzombie_219
+    21300440: superzombie_220
+    21300442: superzombie_221
+    21300444: superzombie_222
+    21300446: superzombie_223
+    21300448: superzombie_224
+    21300450: superzombie_225
+    21300452: superzombie_226
+    21300454: superzombie_227
+    21300456: superzombie_228
+    21300458: superzombie_229
+    21300460: superzombie_230
+    21300462: superzombie_231
+    21300464: superzombie_232
+    21300466: superzombie_233
+    21300468: superzombie_234
+    21300470: superzombie_235
+    21300472: superzombie_236
+    21300474: superzombie_237
+    21300476: superzombie_238
+    21300478: superzombie_239
+    21300480: superzombie_240
+    21300482: superzombie_241
+    21300484: superzombie_242
+    21300486: superzombie_243
+    21300488: superzombie_244
+    21300490: superzombie_245
+    21300492: superzombie_246
+    21300494: superzombie_247
+    21300496: superzombie_248
+    21300498: superzombie_249
+    21300500: superzombie_250
+    21300502: superzombie_251
+    21300504: superzombie_252
+    21300506: superzombie_253
+    21300508: superzombie_254
+    21300510: superzombie_255
+    21300512: superzombie_256
+    21300514: superzombie_257
+    21300516: superzombie_258
+    21300518: superzombie_259
+    21300520: superzombie_260
+    21300522: superzombie_261
+    21300524: superzombie_262
+    21300526: superzombie_263
+    21300528: superzombie_264
+    21300530: superzombie_265
+    21300532: superzombie_266
+    21300534: superzombie_267
+    21300536: superzombie_268
+    21300538: superzombie_269
+    21300540: superzombie_270
+    21300542: superzombie_271
+    21300544: superzombie_272
+    21300546: superzombie_273
+    21300548: superzombie_274
+    21300550: superzombie_275
+    21300552: superzombie_276
+    21300554: superzombie_277
+    21300556: superzombie_278
+    21300558: superzombie_279
+    21300560: superzombie_280
+    21300562: superzombie_281
+    21300564: superzombie_282
+    21300566: superzombie_283
+    21300568: superzombie_284
+    21300570: superzombie_285
+    21300572: superzombie_286
+    21300574: superzombie_287
+    21300576: superzombie_288
+    21300578: superzombie_289
+    21300580: superzombie_290
+    21300582: superzombie_291
+    21300584: superzombie_292
+    21300586: superzombie_293
+    21300588: superzombie_294
+    21300590: superzombie_295
+    21300592: superzombie_296
+    21300594: superzombie_297
+    21300596: superzombie_298
+    21300598: superzombie_299
+    21300600: superzombie_300
+    21300602: superzombie_301
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: superzombie_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 905
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_1
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 905
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 905
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_3
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 905
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 905
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 905
+        width: 43
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 905
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_7
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 905
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_8
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 905
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_9
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 904
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_10
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 904
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_11
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 904
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 844
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 844
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 844
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_15
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 844
+        width: 37
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_16
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 844
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_17
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 844
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_18
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 844
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 795
+        width: 37
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_20
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 795
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_21
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 795
+        width: 41
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_22
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 795
+        width: 42
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_23
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 795
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 795
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_25
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 795
+        width: 45
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_26
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 795
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_27
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 795
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_28
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 795
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_29
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 795
+        width: 44
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_30
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 795
+        width: 44
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_31
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 795
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_32
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 795
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_33
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 795
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_34
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 795
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_35
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 748
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_36
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 748
+        width: 41
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_37
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 748
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 748
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_39
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 748
+        width: 41
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_40
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 748
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_41
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 748
+        width: 37
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_42
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 748
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_43
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 748
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_44
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 748
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_45
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 748
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_46
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 748
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_47
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 695
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_48
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 695
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_49
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 695
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_50
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 695
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_51
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 695
+        width: 44
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_52
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 695
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_53
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 695
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_54
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 695
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_55
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 695
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_56
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 644
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_57
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 644
+        width: 38
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_58
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 644
+        width: 37
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_59
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 644
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_60
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 644
+        width: 38
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_61
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 644
+        width: 38
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_62
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 644
+        width: 39
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_63
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 644
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_64
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 642
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_65
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 634
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_66
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 628
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_67
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 622
+        width: 29
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_68
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 622
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_69
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 622
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_70
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 622
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_71
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 622
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_72
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 622
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_73
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 622
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_74
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 549
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_75
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 549
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_76
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 549
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_77
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 549
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_78
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 549
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_79
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 549
+        width: 51
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_80
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 549
+        width: 55
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_81
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 549
+        width: 60
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_82
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 549
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_83
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 586
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_84
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 549
+        width: 49
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_85
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 582
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_86
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 549
+        width: 64
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_87
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 551
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_88
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 549
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_89
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 554
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_90
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 554
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_91
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 551
+        width: 13
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_92
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 556
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_93
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 566
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_94
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 561
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_95
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 554
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_96
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 553
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_97
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 549
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_98
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 559
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_99
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 465
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_100
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 475
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 466
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_102
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 463
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_103
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 475
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_104
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 464
+        width: 63
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_105
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 463
+        width: 24
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_106
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 481
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_107
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 464
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_108
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 463
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_109
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 464
+        width: 62
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_110
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 463
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_111
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 464
+        width: 29
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_112
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 465
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_113
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 463
+        width: 10
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_114
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 428
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_115
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 428
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_116
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 431
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_117
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 431
+        width: 23
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_118
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 430
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_119
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 430
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_120
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 430
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_121
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 430
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_122
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 430
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_123
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 430
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_124
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 430
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_125
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 430
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_126
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 430
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_127
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 430
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_128
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 430
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_129
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 430
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_130
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 391
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_131
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 392
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_132
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 394
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_133
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 393
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_134
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 390
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_135
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 387
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_136
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 387
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_137
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 387
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_138
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 396
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_139
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 399
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_140
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 398
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_141
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 395
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_142
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 390
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_143
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 387
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_144
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 387
+        width: 18
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_145
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 387
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_146
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 321
+        width: 38
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_147
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 321
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_148
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 321
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_149
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 321
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_150
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 321
+        width: 34
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_151
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 321
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_152
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 321
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_153
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 321
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_154
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 321
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_155
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 321
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_156
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 321
+        width: 33
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_157
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 321
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_158
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 321
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_159
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 321
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_160
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 321
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_161
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 321
+        width: 32
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_162
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 321
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_163
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 321
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_164
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 260
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_165
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 260
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_166
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 260
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_167
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 260
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_168
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 260
+        width: 55
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_169
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 260
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_170
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 260
+        width: 55
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_171
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 295
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_172
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 301
+        width: 22
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_173
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 203
+        width: 57
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_174
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 302
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_175
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 260
+        width: 53
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_176
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 260
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_177
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 260
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_178
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 260
+        width: 43
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_179
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 260
+        width: 48
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_180
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 260
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_181
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 280
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_182
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 260
+        width: 56
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_183
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 227
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_184
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 217
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_185
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 216
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_186
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 219
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_187
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 218
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_188
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 214
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_189
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 225
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_190
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 219
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_191
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 213
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_192
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 211
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_193
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 207
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_194
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 203
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_195
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 215
+        width: 26
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_196
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 209
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_197
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 211
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_198
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 203
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_199
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 203
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_200
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 203
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_201
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 209
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_202
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 203
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_203
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 210
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_204
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 224
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_205
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 203
+        width: 35
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_206
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 203
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_207
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 203
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_208
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 203
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_209
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 203
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_210
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 203
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_211
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 149
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_212
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 149
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_213
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 149
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_214
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 149
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_215
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 149
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_216
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 149
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_217
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 149
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_218
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 149
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_219
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 122
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_220
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 130
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_221
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 121
+        width: 38
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_222
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 134
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_223
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 106
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_224
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 107
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_225
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 10
+        width: 99
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_226
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 10
+        width: 132
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_227
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 90
+        width: 16
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_228
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 90
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_229
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 90
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_230
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 110
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_231
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 118
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_232
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 117
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_233
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 117
+        width: 27
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_234
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 121
+        width: 32
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_235
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 116
+        width: 27
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_236
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 116
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_237
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 123
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_238
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 120
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_239
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 121
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_240
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 90
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_241
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 90
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_242
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 90
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_243
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 90
+        width: 18
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_244
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 113
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_245
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 90
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_246
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 110
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_247
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 110
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_248
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 90
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_249
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 112
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_250
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 90
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_251
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 104
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_252
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 114
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_253
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 100
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_254
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 106
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_255
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 109
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_256
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 105
+        width: 36
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_257
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 103
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_258
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 108
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_259
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 111
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_260
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 90
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_261
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 99
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_262
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 103
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_263
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 90
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_264
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 10
+        width: 115
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_265
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 90
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_266
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 90
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_267
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 90
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_268
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 18
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_269
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 17
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_270
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 18
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_271
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 17
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_272
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 28
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_273
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 24
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_274
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 16
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_275
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 41
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_276
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 34
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_277
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 27
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_278
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 43
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_279
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 43
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_280
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 31
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_281
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 13
+        width: 44
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_282
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 23
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_283
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 23
+        width: 22
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_284
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 22
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_285
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 34
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_286
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 24
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_287
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 15
+        width: 14
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_288
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 38
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_289
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 35
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_290
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 27
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_291
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 16
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_292
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 15
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_293
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 25
+        width: 9
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_294
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 21
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_295
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 29
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_296
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 18
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_297
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 20
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_298
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 21
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_299
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 23
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_300
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: superzombie_301
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

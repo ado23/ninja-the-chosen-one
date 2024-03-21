@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cc8e874df850b97488a10cf4db65a2ef
+timeCreated: 1508369101
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Emulogic
+  fontNames:
+  - Emulogic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

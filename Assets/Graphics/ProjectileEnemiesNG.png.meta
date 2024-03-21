@@ -1,0 +1,2040 @@
+fileFormatVersion: 2
+guid: f814ff373dd898441aa380119fb627e3
+timeCreated: 1509812341
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: ProjectileEnemiesNG_0
+    21300002: ProjectileEnemiesNG_1
+    21300004: ProjectileEnemiesNG_2
+    21300006: ProjectileEnemiesNG_3
+    21300008: ProjectileEnemiesNG_4
+    21300010: ProjectileEnemiesNG_5
+    21300012: ProjectileEnemiesNG_6
+    21300014: ProjectileEnemiesNG_7
+    21300016: ProjectileEnemiesNG_8
+    21300018: ProjectileEnemiesNG_9
+    21300020: ProjectileEnemiesNG_10
+    21300022: ProjectileEnemiesNG_11
+    21300024: ProjectileEnemiesNG_12
+    21300026: ProjectileEnemiesNG_13
+    21300028: ProjectileEnemiesNG_14
+    21300030: ProjectileEnemiesNG_15
+    21300032: ProjectileEnemiesNG_16
+    21300034: ProjectileEnemiesNG_17
+    21300036: ProjectileEnemiesNG_18
+    21300038: ProjectileEnemiesNG_19
+    21300040: ProjectileEnemiesNG_20
+    21300042: ProjectileEnemiesNG_21
+    21300044: ProjectileEnemiesNG_22
+    21300046: ProjectileEnemiesNG_23
+    21300048: ProjectileEnemiesNG_24
+    21300050: ProjectileEnemiesNG_25
+    21300052: ProjectileEnemiesNG_26
+    21300054: ProjectileEnemiesNG_27
+    21300056: ProjectileEnemiesNG_28
+    21300058: ProjectileEnemiesNG_29
+    21300060: ProjectileEnemiesNG_30
+    21300062: ProjectileEnemiesNG_31
+    21300064: ProjectileEnemiesNG_32
+    21300066: ProjectileEnemiesNG_33
+    21300068: ProjectileEnemiesNG_34
+    21300070: ProjectileEnemiesNG_35
+    21300072: ProjectileEnemiesNG_36
+    21300074: ProjectileEnemiesNG_37
+    21300076: ProjectileEnemiesNG_38
+    21300078: ProjectileEnemiesNG_39
+    21300080: ProjectileEnemiesNG_40
+    21300082: ProjectileEnemiesNG_41
+    21300084: ProjectileEnemiesNG_42
+    21300086: ProjectileEnemiesNG_43
+    21300088: ProjectileEnemiesNG_44
+    21300090: ProjectileEnemiesNG_45
+    21300092: ProjectileEnemiesNG_46
+    21300094: ProjectileEnemiesNG_47
+    21300096: ProjectileEnemiesNG_48
+    21300098: ProjectileEnemiesNG_49
+    21300100: ProjectileEnemiesNG_50
+    21300102: ProjectileEnemiesNG_51
+    21300104: ProjectileEnemiesNG_52
+    21300106: ProjectileEnemiesNG_53
+    21300108: ProjectileEnemiesNG_54
+    21300110: ProjectileEnemiesNG_55
+    21300112: ProjectileEnemiesNG_56
+    21300114: ProjectileEnemiesNG_57
+    21300116: ProjectileEnemiesNG_58
+    21300118: ProjectileEnemiesNG_59
+    21300120: ProjectileEnemiesNG_60
+    21300122: ProjectileEnemiesNG_61
+    21300124: ProjectileEnemiesNG_62
+    21300126: ProjectileEnemiesNG_63
+    21300128: ProjectileEnemiesNG_64
+    21300130: ProjectileEnemiesNG_65
+    21300132: ProjectileEnemiesNG_66
+    21300134: ProjectileEnemiesNG_67
+    21300136: ProjectileEnemiesNG_68
+    21300138: ProjectileEnemiesNG_69
+    21300140: ProjectileEnemiesNG_70
+    21300142: ProjectileEnemiesNG_71
+    21300144: ProjectileEnemiesNG_72
+    21300146: ProjectileEnemiesNG_73
+    21300148: ProjectileEnemiesNG_74
+    21300150: ProjectileEnemiesNG_75
+    21300152: ProjectileEnemiesNG_76
+    21300154: ProjectileEnemiesNG_77
+    21300156: ProjectileEnemiesNG_78
+    21300158: ProjectileEnemiesNG_79
+    21300160: ProjectileEnemiesNG_80
+    21300162: ProjectileEnemiesNG_81
+    21300164: ProjectileEnemiesNG_82
+    21300166: ProjectileEnemiesNG_83
+    21300168: ProjectileEnemiesNG_84
+    21300170: ProjectileEnemiesNG_85
+    21300172: ProjectileEnemiesNG_86
+    21300174: ProjectileEnemiesNG_87
+    21300176: ProjectileEnemiesNG_88
+    21300178: ProjectileEnemiesNG_89
+    21300180: ProjectileEnemiesNG_90
+    21300182: ProjectileEnemiesNG_91
+    21300184: ProjectileEnemiesNG_92
+    21300186: ProjectileEnemiesNG_93
+    21300188: ProjectileEnemiesNG_94
+    21300190: ProjectileEnemiesNG_95
+    21300192: ProjectileEnemiesNG_96
+    21300194: ProjectileEnemiesNG_97
+    21300196: ProjectileEnemiesNG_98
+    21300198: ProjectileEnemiesNG_99
+    21300200: ProjectileEnemiesNG_100
+    21300202: ProjectileEnemiesNG_101
+    21300204: ProjectileEnemiesNG_102
+    21300206: ProjectileEnemiesNG_103
+    21300208: ProjectileEnemiesNG_104
+    21300210: ProjectileEnemiesNG_105
+    21300212: ProjectileEnemiesNG_106
+    21300214: ProjectileEnemiesNG_107
+    21300216: ProjectileEnemiesNG_108
+    21300218: ProjectileEnemiesNG_109
+    21300220: ProjectileEnemiesNG_110
+    21300222: ProjectileEnemiesNG_111
+    21300224: ProjectileEnemiesNG_112
+    21300226: ProjectileEnemiesNG_113
+    21300228: ProjectileEnemiesNG_114
+    21300230: ProjectileEnemiesNG_115
+    21300232: ProjectileEnemiesNG_116
+    21300234: ProjectileEnemiesNG_117
+    21300236: ProjectileEnemiesNG_118
+    21300238: ProjectileEnemiesNG_119
+    21300240: ProjectileEnemiesNG_120
+    21300242: ProjectileEnemiesNG_121
+    21300244: ProjectileEnemiesNG_122
+    21300246: ProjectileEnemiesNG_123
+    21300248: ProjectileEnemiesNG_124
+    21300250: ProjectileEnemiesNG_125
+    21300252: ProjectileEnemiesNG_126
+    21300254: ProjectileEnemiesNG_127
+    21300256: ProjectileEnemiesNG_128
+    21300258: ProjectileEnemiesNG_129
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_0
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 337
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_1
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 337
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 337
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_3
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 337
+        width: 24
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_4
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 337
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_5
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 337
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 354
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_7
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 337
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_8
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 337
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_9
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 337
+        width: 24
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_10
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 281
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_11
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 281
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_12
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 281
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_13
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 281
+        width: 24
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 313
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 314
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_16
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 281
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_17
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 281
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_18
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 281
+        width: 23
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_19
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 281
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_20
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 287
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_21
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 284
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 225
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_23
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 225
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_24
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 225
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 225
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 225
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_27
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 225
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_28
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 225
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_29
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 225
+        width: 24
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_30
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 225
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_31
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 225
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_32
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 225
+        width: 28
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_33
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 177
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_34
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 177
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_35
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 193
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_36
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_37
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 195
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_38
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_39
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 193
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_40
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 194
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_41
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_42
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 193
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_43
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 191
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_44
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 185
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_45
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 177
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_46
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 177
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_47
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 177
+        width: 24
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_48
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 177
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_49
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 177
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_50
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 178
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_51
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 99
+        width: 30
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_52
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 97
+        width: 24
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_53
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 153
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_54
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 97
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_55
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 153
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_56
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 97
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_57
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 153
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_58
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 97
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 153
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_60
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 97
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_61
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 153
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_62
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 97
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_63
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 153
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_64
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 97
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_65
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 121
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_66
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 153
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_67
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 121
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_68
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 97
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_69
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 122
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_70
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 153
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_71
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 99
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_72
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 121
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_73
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 97
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 153
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_75
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 121
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_76
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 97
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_77
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 153
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_78
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 121
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_79
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 97
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_80
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 67
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_81
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 65
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_82
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 65
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_83
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 65
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_84
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 65
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_85
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 70
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_86
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 61
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_87
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 73
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_88
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_89
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 75
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_90
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 74
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_91
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 73
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_92
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 67
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_93
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 67
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_94
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 67
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_95
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_96
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_97
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_98
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_99
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 33
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_100
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 42
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_101
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 34
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_102
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_103
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 34
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_104
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 34
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_105
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 33
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_106
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 34
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_107
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 34
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_108
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 34
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_109
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 34
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_110
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 34
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_111
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 34
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_112
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 34
+        width: 16
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_113
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 17
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_114
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 13
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_115
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 17
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_116
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 17
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_117
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 17
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_118
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 17
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_119
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 9
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_121
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 9
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_122
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 15
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_123
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 13
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_124
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_125
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_126
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 9
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_127
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 11
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_128
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: ProjectileEnemiesNG_129
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
